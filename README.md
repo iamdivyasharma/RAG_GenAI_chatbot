@@ -1,5 +1,5 @@
 
-# Conversational RAG Chatbot with Hugging Face Endpoint and FAISS
+## RAG-based Question Answering System
 
 ## Project Overview
 
