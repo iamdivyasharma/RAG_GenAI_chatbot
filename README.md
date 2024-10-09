@@ -51,7 +51,7 @@ To make the user experience smoother, the chatbot stores and displays the entire
 ### Steps to Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/iamdivyasharma/RAG_GenAI_chatbot.git
    ```
 
 2. Install the required dependencies:
