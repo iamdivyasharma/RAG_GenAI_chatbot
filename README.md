@@ -54,17 +54,12 @@ To make the user experience smoother, the chatbot stores and displays the entire
    git clone https://github.com/iamdivyasharma/RAG_GenAI_chatbot.git
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Start the Streamlit application:
+2. Start the Streamlit application:
    ```bash
    streamlit run RAG_app.py --server.port 8081
    ```
 
-4. Use Localtunnel to expose the application:
+3. Use Localtunnel to expose the application:
    ```bash
    npx localtunnel --port 8081
    ```
